@@ -36,7 +36,7 @@ const About = () => {
               </div>
               <div className="rounded-lg overflow-hidden h-80">
                 <img 
-                  src="/uploads/61020ac5-0c78-44e9-be02-ca8375e7b8df.png" 
+                  src="/uploads/5003ce44-1f14-43c2-9784-a7f97efd6a0c.png" 
                   alt="Spark of Tomorrow team" 
                   className="w-full h-full object-cover"
                 />
